@@ -1,2 +1,3 @@
 # gana
 first
+git commands
